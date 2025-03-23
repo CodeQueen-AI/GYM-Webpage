@@ -5,4 +5,7 @@ This is a basic gym registration form where users can enter their details to sig
 
 # 🛠 Built With
 ✅ HTML – Structure of the form
+
+
+
 ✅ CSS – Basic styling
